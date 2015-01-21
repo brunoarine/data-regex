@@ -3,7 +3,6 @@
 """
 Created on Thu Feb 27 16:01:34 2014
 
-@author: bruno.arine
 """
 
 import re
